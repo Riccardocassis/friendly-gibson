@@ -5,7 +5,7 @@ chiedo scusa per il leggero ritardo nella consegna, ho cercato di rendere il pro
 Spero che le piaccia (so che c'è mooooooolto margine di miglioramento e cercherò di migliorarlo).
 Tecnicamente era un configuratore fino a ieri mattina lol.
 
-Descrizione
+Descrizione:
 Questo progetto è una chitarra virtuale realizzata con **Vue 3** e **Vite**, pensata per offrire un'esperienza interattiva e musicale nel browser, nata come configuratore si potrebbe trasformarla 
 in una sorta di chitarra che crea una esperienza utente immersiva in stile "guitar Hero" che diventa LABA HERO se la si mostra al 25°.
 
@@ -18,7 +18,7 @@ in una sorta di chitarra che crea una esperienza utente immersiva in stile "guit
  - `N` → Torna alla modalità normale
 - `SPACE` → Ferma tutti i suoni
 - Corde cliccabili con effetto visivo
-- Modalità responsive e adattiva
+- Modalità responsive e adattiva.
 La cosa che mi preme è la realizzazione dell' esperienza in base al target, per ora è molto migliorabile la parte nella quale faccio partire le modalità perchè in realtà non suono ma accendo solo
 le luci alle corde.
 Io vorrei che l'utente possa fruire con facilità dell'app e divertirsi senza pensare troppo all'accordo/nota in maniera iper realistica (dato che non è un app per chitarristi ma il mio intento è quello di divertire).
