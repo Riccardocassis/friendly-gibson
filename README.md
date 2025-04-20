@@ -29,8 +29,3 @@ Io vorrei che l'utente possa fruire con facilità dell'app e divertirsi senza pe
 
 3.	Avviare il progetto in locale:
    npm run dev
-
-Spero ci sia tutto, non sia clemente in caso di errori dato che sono qua per imparare.
-Per qualsiasi cosa rimango a disposizione. 
-Grazie mille e Buona Pasqua :)
-Riccardo.
